@@ -114,7 +114,7 @@ body {
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: black; }
+    background-color: transparent; }
     #mainNav .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
@@ -133,7 +133,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/truck_image_bg.jpg");
+  background-image: url("../img/header-image.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -441,7 +441,7 @@ header.masthead {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-image: url("../img/header-image.png");
   background-repeat: no-repeat;
   background-position: center; }
   section#contact .section-heading {
