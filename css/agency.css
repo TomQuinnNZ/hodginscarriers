@@ -513,3 +513,11 @@ ul.social-buttons {
 #shop-icon, #laptop-icon, #lock-icon {
 	color: #c07848 !important;
 }
+
+#details {
+	text-align:center;
+}
+
+#map {
+	align:center;
+}
